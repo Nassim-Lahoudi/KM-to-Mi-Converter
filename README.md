@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Kilometer zu Meilen Konverter</title>
-</head>
-<body>
 <h1>Kilometer zu Meilen Konverter</h1>
 <p>Ein einfacher Kilometer-zu-Meilen-Konverter, der mit Python entwickelt wurde. Die Anwendung nutzt <code>tkinter</code> und <code>customtkinter</code>, um eine benutzerfreundliche grafische Oberfläche (GUI) bereitzustellen. Sie bietet auch eine Umschaltung zwischen Hell- und Dunkelmodus.</p>
 <h2>Funktionen</h2>
@@ -49,5 +41,3 @@
 <p>Dieses Projekt steht unter der <a href="https://opensource.org/licenses/MIT">MIT-Lizenz</a>. Weitere Informationen findest du in der Datei <code>LICENSE</code>.</p>
 <h2>Beitrag</h2>
 <p>Beiträge sind herzlich willkommen! Wenn du Ideen hast, Verbesserungsvorschläge machen möchtest oder Fehler findest, erstelle bitte ein Issue oder sende einen Pull-Request.</p>
-</body>
-</html>
